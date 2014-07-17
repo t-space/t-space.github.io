@@ -20,3 +20,17 @@ footer {
     margin-bottom:0px;
     padding:0px;
     }
+
+.vidoverlay
+{
+
+    font-family: 'Droid Sans', serif;
+        font-size: 48px;
+
+
+width:600px;
+margin: 0 auto;
+background: rgba(24, 24, 24, 0.8);
+color: #eeeeee;
+    border-radius: 5px;
+}
